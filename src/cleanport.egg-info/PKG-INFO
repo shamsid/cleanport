@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: cleanport
+Version: 1.0.0
+Summary: A package to free port
+Home-page: https://github.com/shamsid/cleanport
+Author: Shamsher Ahmed
+Author-email: hi@shamsherahmed.in
+License: UNKNOWN
+Project-URL: Bug Reports, https://github.com/shamsid/cleanport/issues
+Project-URL: Source, https://github.com/shamsid/cleanport
+Description: CleanPort scripts cleans the cleans port that are being used right now.
+        
+Keywords: port-clean process-kill development
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
